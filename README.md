@@ -25,6 +25,7 @@ Proje üç ana katman üzerine inşa edilmiştir:
 - Strategy Provider: DI Container üzerinden gelen stratejileri yöneten ve hızlı erişim sağlayan merkez.
 
 Blog Yazısı ve Teknik Detaylar
+
 Bu projenin arkasındaki teorik altyapıyı, "Neden If-Else yerine bu deseni kullanmalıyız?" sorusunun yanıtını ve implementasyon detaylarını blog yazımda bulabilirsiniz:
 
 👉 Strategy Pattern: Esnek ve Sürdürülebilir Mimari İnşası: https://sinantosun.com/blog-detayi/dotnet-10-strategy-design-pattern-ile-surdurulebilir-mimari
